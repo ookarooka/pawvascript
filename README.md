@@ -59,7 +59,7 @@ function pugChecker(breed) {
 	if (breed == “Pug”) {
 		return “You’re a Smol Pup”;
 	} else {
-		return “You’re a Big Pup;”
+		return “You’re a Big Pup";
 	}
 }
 pugChecker(Pug)
