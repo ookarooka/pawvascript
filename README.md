@@ -84,7 +84,7 @@ cuteness is 100;                                                    cuteness = 1
 
 ### Leashes/Strings
 
-PawvaScript supports leash interpolation and concetation:
+PawvaScript supports leash interpolation and concatenation:
 
 ```JavaScript
 PAWVASCRIPT                                                         JAVASCRIPT
